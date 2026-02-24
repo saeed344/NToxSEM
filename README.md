@@ -25,8 +25,8 @@ Lasso.ipynb implements Lasso.
 XGB_SFS_selection.py implements XGB-SFS.
 Classifier:
 Meta_EnsClassifiers.ipynb implements a stacked ensemble classifier.
-Dataset:
-##Guiding principles: **The dataset contains both a training dataset and an independent test set.
+## Dataset:
+## Guiding principles: **The dataset contains both a training dataset and an independent test set.
 The combined folder contains the training and independent datasets.
 The protein folder contains the data of the training and the independent protein dataset.
 The peptide folder contains the data for the training and independent peptide datasets.
